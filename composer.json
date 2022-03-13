@@ -3,6 +3,7 @@
     "description": "Official Sms.ir Laravel Package",
     "keywords": ["laravel", "sms", "پیامک", "اس ام اس", "sendsms", "notifacation", "sms.ir"],
     "license": "MIT",
+
     "authors": [
         {
             "name": "moein.alizadeh",
@@ -14,6 +15,8 @@
             "Ipecompany\\Smsirlaravel\\": "src"
         }
     },
+    "minimum-stability": "dev",
+
     "require": {
         "guzzlehttp/guzzle": "^7.0.1"
     }
