@@ -1,7 +1,6 @@
 {
-    "name": "SajjadKazazi/Smsirlaravel",
+    "name": "sajjadKazazi/smsirLaravel",
     "description": "Official Sms.ir Laravel Package",
-    "homepage": "https://github.com/sajjadkazazi/smsirLaravel",
     "keywords": ["laravel", "sms", "پیامک", "اس ام اس", "sendsms", "notifacation", "sms.ir"],
     "license": "MIT",
     "authors": [
@@ -15,6 +14,7 @@
             "Ipecompany\\Smsirlaravel\\": "src"
         }
     },
+    "minimum-stability": "dev",
     "require": {
         "guzzlehttp/guzzle": "^7.3",
         "zendframework/zend-diactoros" : "1.*.*",
