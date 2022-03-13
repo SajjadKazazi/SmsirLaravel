@@ -15,7 +15,6 @@
             "Ipecompany\\Smsirlaravel\\": "src"
         }
     },
-    "minimum-stability": "dev",
     "require": {
         "guzzlehttp/guzzle": "~7.0",
         "zendframework/zend-diactoros" : "1.*.*",
